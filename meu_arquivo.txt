@@ -1,0 +1,3 @@
+Olá, meu nome é Alberi Júnior e eu sou aluno do curso de FullStack do Geração Tech 4.0
+E esse repositório é uma atividade proposta pelo curso para avaliar minhas Habilidades em
+Git e GitHub.
